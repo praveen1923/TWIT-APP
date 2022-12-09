@@ -1,4 +1,4 @@
 # TWIT-APP
-\Javascript project
+Javascript project
 Web application for online course
 
